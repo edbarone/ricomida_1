@@ -1,0 +1,128 @@
+html, body {
+    height:100%;
+}
+
+.fuente-1{
+  font-family: Lobster;
+  color: #fff;
+}
+
+.fuente-2{
+  font-family: Cabin;
+  color: #fff;
+}
+
+.blanco{
+  color: #fff;
+}
+
+.rojo{
+  background: red;
+  text-align: center;
+  padding: 5%;
+}
+
+.texto-1{
+  margin-right: 50%;
+  text-align: left;
+  font-size: 36px;
+  margin-top: 19px;
+}
+
+.texto-2{
+  margin-right: 50%;
+  text-align: left;
+  font-family: Cabin;
+}
+
+.texto-3{
+  font-family: Cabin;
+}
+
+.texto-4{
+  text-decoration: underline;
+}
+
+.contenedor-1{
+  margin-top: 7rem;
+}
+
+.imagen-1{
+  width: 95%;
+}
+
+.imagen-2{
+width: 200px;
+}
+
+.color-1{
+  color: black;
+}
+
+.boton-1{
+  width: 149px;
+  height: 39px;
+  margin-left: -18px;
+  font-size: 15px;
+  margin-top: -45px;
+  color: #373a3c;
+  border-color: #373a3c;
+
+}
+
+.boton-2{
+  width: 151px;
+  height: 40px;
+  margin-left: 0px;
+  font-size: 15px;
+  margin-top: -45px;
+  color: #373a3c;
+  border-color: #373a3c;
+}
+
+.boton-3{
+  border-color: #fff;
+  color: #fff;
+}
+
+.carruse-l{
+  margin-top: 52px;
+  padding: 0 100px;
+}
+
+.sinbullets{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.margen-1{
+  margin: 0;
+  padding: 0;
+}
+
+/* .carousel-indicators{
+  width: 1em !important;
+  height: : 1em !important;
+  border-radius: : 100% !important;
+  background-color: : black !important;
+  color: black !important;
+} */
+
+.margen-2{
+  margin-top: 50px;
+}
+
+.centrado{
+  text-align: center;
+  background: black;
+  margin: 0;
+}
+
+
+/* .color{
+  color: #373a3c;
+  color: #000;
+  color: #fff;
+  color: #dc354;
+} */
